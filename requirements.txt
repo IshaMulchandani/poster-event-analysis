@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+faker
+wordcloud
+scikit-learn
+matplotlib
+seaborn
+opencv-python-headless
+plotly
